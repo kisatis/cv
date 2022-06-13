@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  background-color: white;
+}
+
+h1 {
+font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  letter-spacing: -1px;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+div {
+
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 75px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+background-color: white;
+
+}
+
+.bottom-container {
+background-color: #66BFBF;
+margin-top: 100px;
+width: 100%;
+height: 150px;
+
+}
+
+.name {
+color: white;
+
+}
+
+.footer-link1 {
+font-family: 'Merriweather', cursive;
+font-size: 1.2rem;
+font-weight: bolder;
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+.footer-link2 {
+  font-family: 'Merriweather', cursive;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  color: #FFFFFF;
+  text-decoration: none;
+
+}
+
+.footer-link3 {
+  font-family: 'Merriweather', cursive;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  color: #FFFFFF;
+  text-decoration: none;
+
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+
+}
+
+.web-development {
+  position: static;
+  width: 350px;
+  height: 350px;
+  float: left;
+  margin-right: 30px;
+}
+
+.Attila-pic {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+.online-marketing {
+  width: 400px;
+  height: 400px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+color: black;
+}
+
+.skills {
+  color: #66BFBF;
+
+}
+
+.contact-me {
+
+}
+
+.you-know {
+letter-spacing: normal;
+margin-top: -35px;
+}
+
+.design-descript {
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.marketing-descript {
+  letter-spacing: normal;
+  line-height: normal;
+}
+.bottom-hr {
+  margin-top: -200px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
